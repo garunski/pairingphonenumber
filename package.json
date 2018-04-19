@@ -1,0 +1,23 @@
+{
+  "name": "pairingphonenumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garunski/pairingphonenumber.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garunski/pairingphonenumber/issues"
+  },
+  "homepage": "https://github.com/garunski/pairingphonenumber#readme",
+  "devDependencies": {
+    "jasmine": "3.1.0"
+  }
+}
